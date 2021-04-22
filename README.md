@@ -1,6 +1,6 @@
 # censor-shell
 
-![](https://raw.githubusercontent.com/iann0036/iann0036/censor-shell.gif)
+![](https://raw.githubusercontent.com/iann0036/iann0036/static/censor-shell.gif)
 
 ## Installation
 
