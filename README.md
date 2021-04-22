@@ -1,6 +1,6 @@
 # censor-shell
 
-> Censors or hides shell / Bash / console output based on defined patterns
+![](https://raw.githubusercontent.com/iann0036/iann0036/censor-shell.gif)
 
 ## Installation
 
